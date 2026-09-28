@@ -1,0 +1,7 @@
+streamlit
+pandas
+rank_bm25
+scikit-learn
+networkx
+pypdf
+# optional: sentence-transformers, anthropic (for LLM explanations)
